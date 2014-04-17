@@ -6,3 +6,13 @@
 #
 # Pods/
 
+_/
+*.deb
+theos
+_/*
+.DS_Store
+*/.DS_Store
+*/theos
+*/.deb
+.theos
+obj/
