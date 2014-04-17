@@ -1,0 +1,11 @@
+Package: com.phillipt.doublepass
+Name: DoublePass
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Enter your password twice to unlock
+Depends: com.bd452.libpass
+Maintainer: Phillip Tennen
+Author: Phillip Tennen
+Section: Tweaks
+Version: 1.0-1
+Installed-Size: 88
